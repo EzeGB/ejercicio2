@@ -8,4 +8,15 @@ public class aritmetica {
             return a/b;
         } 
     }
+
+
+    //Alejandro Montaño Cayola
+    public int multiplicacion(){
+        int a = 2;
+        int b = 5;
+        int multiplicacion = a * b ;
+        return multiplicacion;
+
+    }
+
 }
