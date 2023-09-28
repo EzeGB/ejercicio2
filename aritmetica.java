@@ -18,5 +18,11 @@ public class aritmetica {
         return multiplicacion;
 
     }
+    
+    //Samuel Navia Peña
+    public int resta(int a, int b){
+      int resultadoResta = a-b;
+      return resultadoResta;
+    }
 
 }
