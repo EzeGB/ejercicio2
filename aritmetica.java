@@ -1,6 +1,6 @@
 public class aritmetica {
 
-    //Ivan Rene Ccama Mamani
+    // Ivan Rene Ccama Mamani
     public double suma(double a, double b){
         return a + b;
     }
